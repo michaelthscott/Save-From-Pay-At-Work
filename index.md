@@ -1,9 +1,10 @@
-![need money.png](media/image1.png){width="7.838233814523185in"
-height="11.532687007874015in"}
+---
+layout: home
+---
 
-Save From Pay At Work
+![National Savings poster](need-money.png)
 
-Michael Thomas Harold Scott
+# Save From Pay At Work
 
 (surface) small room electric light young man in English city other
 things
@@ -389,6 +390,8 @@ down into this dark brick building -- it was summer this morning -- yes,
 a beautiful morning -- another summer is gone unless\... go now, walk
 and forget alone
 
+![Charlie Grunt](Charlie-Grunt.png)
+
 'wake up lad! play the game, hands out of pockets!' -- yes yes
 surprised, his voice immediately behind me, I go through the motions
 but\... no real enthusiasm for this business -- factory world -- 'one
@@ -703,6 +706,8 @@ shelves with display bottles, advertisements, etc. -- the lone young
 poet deranging his senses leaning on a typical public bar -- pages full
 of strange complaints, objections, old laments -- gives one a great
 sense of tradition and\...
+
+![Max Planck](media/Max-Planck.jpg)
 
 some hours later -- in a different bar -- crowded -- (chance rather
 unconvincingly providing someone I recognise who seems to know these
@@ -1628,8 +1633,3 @@ know what to do -- sit down -- pain and swelling -- swelling -- swelling
 
 \...unsatisfactory ending -- start again.
 
-![Charlie Grunt.png](media/image2.png){width="4.125in"
-height="4.694444444444445in"}
-
-![Max Planck.jpg](media/image1.jpeg){width="4.816358267716535in"
-height="6.767716535433071in"}
