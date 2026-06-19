@@ -707,8 +707,6 @@ poet deranging his senses leaning on a typical public bar -- pages full
 of strange complaints, objections, old laments -- gives one a great
 sense of tradition and\...
 
-![Max Planck](Max-Planck.jpg)
-
 some hours later -- in a different bar -- crowded -- (chance rather
 unconvincingly providing someone I recognise who seems to know these
 students who are in some way connected with a party afterwards, I think)
@@ -733,6 +731,8 @@ used to indicate the uncertainty of each quantity) are related so that
 their product is never less than Planck's constant\...' -- forget what
 happened after that -- incoherent muttering -- perhaps singing as I walk
 home
+
+![Max Planck](Max-Planck.jpg)
 
 but remember the name next morning (sick, etc.) lying in bed -- find the
 right book -- Max Planck appears -- frozen in photograph -- from another
