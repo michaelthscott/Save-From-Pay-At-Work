@@ -707,7 +707,7 @@ poet deranging his senses leaning on a typical public bar -- pages full
 of strange complaints, objections, old laments -- gives one a great
 sense of tradition and\...
 
-![Max Planck](media/Max-Planck.jpg)
+![Max Planck](Max-Planck.jpg)
 
 some hours later -- in a different bar -- crowded -- (chance rather
 unconvincingly providing someone I recognise who seems to know these
