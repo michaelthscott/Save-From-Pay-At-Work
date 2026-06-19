@@ -390,8 +390,6 @@ down into this dark brick building -- it was summer this morning -- yes,
 a beautiful morning -- another summer is gone unless\... go now, walk
 and forget alone
 
-![Charlie Grunt](Charlie-Grunt.png)
-
 'wake up lad! play the game, hands out of pockets!' -- yes yes
 surprised, his voice immediately behind me, I go through the motions
 but\... no real enthusiasm for this business -- factory world -- 'one
@@ -421,6 +419,8 @@ tighter shut -- someone cares -- 'thanks Charlie -- carry on', entertain
 myself by thanking the other -- tick of the body the limbs and
 functions- seeing myself as person of the mind inside the head the voice
 and feelings -- the differences are personified -- characters emerge
+
+![Charlie Grunt](Charlie-Grunt.png)
 
 (the thinker amusing himself reading meaning in the obscure) -- Charlie
 given this name originally from a picture in a kids' comic\... in a
