@@ -2,7 +2,7 @@
 layout: home
 ---
 
-![National Savings poster](need-money.png)
+![National Savings poster](images/need-money.png)
 
 # Save From Pay At Work
 
@@ -420,7 +420,7 @@ myself by thanking the other -- tick of the body the limbs and
 functions- seeing myself as person of the mind inside the head the voice
 and feelings -- the differences are personified -- characters emerge
 
-![Charlie Grunt](Charlie-Grunt.png)
+![Charlie Grunt](images/Charlie-Grunt.png)
 
 (the thinker amusing himself reading meaning in the obscure) -- Charlie
 given this name originally from a picture in a kids' comic\... in a
@@ -732,7 +732,7 @@ their product is never less than Planck's constant\...' -- forget what
 happened after that -- incoherent muttering -- perhaps singing as I walk
 home
 
-![Max Planck](Max-Planck.jpg)
+![Max Planck](images/Max-Planck.jpg)
 
 but remember the name next morning (sick, etc.) lying in bed -- find the
 right book -- Max Planck appears -- frozen in photograph -- from another
